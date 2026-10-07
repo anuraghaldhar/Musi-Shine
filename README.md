@@ -38,4 +38,4 @@ First public release of MusiShine, a free, fast and mobile-first music streaming
 3. Allow "Install unknown apps" on your phone, then install
 
 ## Made by
-**Anurag Haldhar** · Instagram: [anuraag_haldhar](https://instagram.com/anuraag_haldhar)
+**Anurag Haldhar** ·For apk dm in my Instagram: [anuraag_haldhar](https://instagram.com/anuraag_haldhar)
